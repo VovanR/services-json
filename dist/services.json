@@ -190,7 +190,7 @@
     ]
   },
   {
-    "id": "react-weather-test",
+    "id": "test-react-redux-weather",
     "name": "React Redux Weather",
     "desc": "Прогноз погоды на полтора дня",
     "href": "https://vovanr.github.io/test-react-redux-weather",
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "id": "arabic-roman-convert",
+    "id": "arabic-roman-convert.js",
     "name": "Arabic Roman Convert",
     "desc": "Конвертирует арабские цифры в римские с применением utf-8 символов",
     "href": "https://vovanr.github.io/arabic-roman-convert.js",
