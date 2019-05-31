@@ -1,0 +1,11 @@
+{
+  "name": "BEM Classname Parser",
+  "desc": "Парсер имён классов по БЭМу",
+  "href": "https://vovanr.github.io/bem-classname-parser",
+  "source": "https://github.com/VovanR/bem-classname-parser",
+  "date": "2016-01-03",
+  "tags": [
+    "parser"
+  ],
+  "disabled": true
+}

@@ -1,0 +1,26 @@
+{
+  "name": "services-json",
+  "version": "0.0.1",
+  "description": "My services list",
+  "license": "MIT",
+  "repository": "VovanR/services-json",
+  "author": "Vladimir Rodkin <mail@vovanr.com> (https://github.com/VovanR)",
+  "scripts": {
+    "build": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "files": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.17.1"
+  },
+  "peerDependencies": {},
+  "bugs": {
+    "url": "https://github.com/VovanR/services-json/issues"
+  },
+  "homepage": "https://github.com/VovanR/services-json#readme"
+}

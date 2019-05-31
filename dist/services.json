@@ -1,0 +1,310 @@
+[
+  {
+    "id": "time-progress",
+    "name": "Time Progress",
+    "desc": "Отображает статистику по текущему времени",
+    "href": "https://vovanr.github.io/time-progress",
+    "source": "https://github.com/VovanR/time-progress",
+    "date": "2019-04-19",
+    "tags": [
+      "date",
+      "productivity",
+      "statistics",
+      "time"
+    ]
+  },
+  {
+    "id": "string-cases",
+    "name": "String Cases",
+    "desc": "Конвертирует название переменной в различные регистры",
+    "href": "https://vovanr.github.io/string-cases",
+    "source": "https://github.com/VovanR/string-cases",
+    "date": "2019-04-01",
+    "icon": "/logo.svg",
+    "tags": [
+      "converter",
+      "development",
+      "text"
+    ]
+  },
+  {
+    "id": "time-calculator",
+    "name": "Time Calculator",
+    "desc": "Складывает/Вычитает время",
+    "href": "https://vovanr.github.io/time-calculator",
+    "source": "https://github.com/VovanR/time-calculator",
+    "date": "2019-01-30",
+    "icon": "/logo.svg",
+    "tags": [
+      "calculator",
+      "time"
+    ]
+  },
+  {
+    "id": "from-date-to-date",
+    "name": "From Date to Date",
+    "desc": "Рассчитывает разницу между датами",
+    "href": "https://vovanr.github.io/from-date-to-date",
+    "source": "https://github.com/VovanR/from-date-to-date",
+    "date": "2018-09-25",
+    "icon": "/logo.svg",
+    "tags": [
+      "calculator",
+      "date",
+      "time"
+    ]
+  },
+  {
+    "id": "timers",
+    "name": "Timers",
+    "desc": "Разнообразные таймеры",
+    "href": "https://vovanr.github.io/timers",
+    "source": "https://github.com/VovanR/timers",
+    "date": "2018-07-31",
+    "tags": [
+      "time"
+    ],
+    "disabled": true
+  },
+  {
+    "id": "ruler",
+    "name": "Ruler",
+    "desc": "Экранная линейка",
+    "href": "https://vovanr.github.io/ruler",
+    "source": "https://github.com/VovanR/ruler",
+    "date": "2018-07-25",
+    "icon": "/logo.svg",
+    "tags": [],
+    "disabled": true
+  },
+  {
+    "id": "choice-roulete",
+    "name": "Choice Roulette",
+    "desc": "Куда пойти на обед?",
+    "href": "https://vovanr.github.io/choice-roulete",
+    "source": "https://github.com/VovanR/choice-roulete",
+    "date": "2018-04-06",
+    "icon": "/logo.svg",
+    "tags": [
+      "life"
+    ],
+    "disabled": true
+  },
+  {
+    "id": "number-converter",
+    "name": "Number Converter",
+    "desc": "Конвертирует десятичные и бинарные числа",
+    "href": "https://vovanr.github.io/number-converter",
+    "source": "https://github.com/VovanR/number-converter",
+    "date": "2018-02-16",
+    "icon": "/logo.svg",
+    "tags": [
+      "converter",
+      "number"
+    ]
+  },
+  {
+    "id": "when-to-go-from-work",
+    "name": "When to go from work",
+    "desc": "Рассчитывает во сколько прийти или уйти с работы",
+    "href": "https://vovanr.github.io/when-to-go-from-work",
+    "source": "https://github.com/VovanR/when-to-go-from-work",
+    "date": "2018-02-02",
+    "icon": "/logo.svg",
+    "tags": [
+      "time"
+    ]
+  },
+  {
+    "id": "dozed-off",
+    "name": "Dozed OFF",
+    "desc": "Перерыв на 15 минут",
+    "href": "https://vovanr.github.io/dozed-off",
+    "source": "https://github.com/VovanR/dozed-off",
+    "date": "2017-08-09",
+    "icon": "/logo.svg",
+    "tags": [
+      "productivity",
+      "time"
+    ]
+  },
+  {
+    "id": "sound-reaction",
+    "name": "Sound Reaction",
+    "desc": "Набор звуков для разных ситуаций",
+    "href": "https://vovanr.github.io/sound-reaction",
+    "source": "https://github.com/VovanR/sound-reaction",
+    "date": "2017-04-12",
+    "icon": "/logo.svg",
+    "tags": [
+      "sound"
+    ]
+  },
+  {
+    "id": "yes-all-not",
+    "name": "Yes All Not",
+    "desc": "Фильтрует невыбранные элементы списка",
+    "href": "https://vovanr.github.io/yes-all-not",
+    "source": "https://github.com/VovanR/yes-all-not",
+    "date": "2017-01-31",
+    "tags": [
+      "text"
+    ]
+  },
+  {
+    "id": "hour-to-day-or-night",
+    "name": "Hour to Day or Night",
+    "desc": "Конвертирует часы в день или ночь",
+    "href": "https://vovanr.github.io/hour-to-day-or-night",
+    "source": "https://github.com/VovanR/hour-to-day-or-night",
+    "date": "2016-09-08",
+    "icon": "/logo.svg",
+    "tags": [
+      "converter",
+      "number",
+      "time"
+    ]
+  },
+  {
+    "id": "awesome-vovanr",
+    "name": "Awesome VovanR",
+    "desc": "Список зависимостей ваших пакетов",
+    "href": "https://vovanr.github.io/awesome-vovanr",
+    "source": "https://github.com/VovanR/awesome-vovanr",
+    "date": "2016-09-01",
+    "tags": [
+      "statistics"
+    ]
+  },
+  {
+    "id": "hour-to-chinese-zodiac",
+    "name": "Hour to Chinese Zodiac",
+    "desc": "Конвертирует часы в знак китайского зодиака",
+    "href": "https://vovanr.github.io/hour-to-chinese-zodiac",
+    "source": "https://github.com/VovanR/hour-to-chinese-zodiac",
+    "date": "2016-09-01",
+    "tags": [
+      "converter",
+      "number",
+      "time"
+    ]
+  },
+  {
+    "id": "react-weather-test",
+    "name": "React Redux Weather",
+    "desc": "Прогноз погоды на полтора дня",
+    "href": "https://vovanr.github.io/test-react-redux-weather",
+    "source": "https://github.com/VovanR/test-react-redux-weather",
+    "date": "2016-09-01",
+    "icon": "/favicon-32x32.png",
+    "tags": [
+      "weather"
+    ]
+  },
+  {
+    "id": "format-thousands",
+    "name": "Format Thousands",
+    "desc": "Разделяет тысячи заданным символом: 1 000 000",
+    "href": "https://vovanr.github.io/format-thousands",
+    "source": "https://github.com/VovanR/format-thousands",
+    "date": "2016-04-21",
+    "tags": [
+      "formatter",
+      "number"
+    ]
+  },
+  {
+    "id": "convert2base64",
+    "name": "Convert 2 base64",
+    "desc": "Конвертирует файлы в base64",
+    "href": "https://vovanr.github.io/convert2base64",
+    "source": "https://github.com/VovanR/convert2base64",
+    "date": "2016-01-27",
+    "tags": [
+      "converter",
+      "file"
+    ]
+  },
+  {
+    "id": "dtr",
+    "name": "DTR",
+    "desc": "Data + Template = Result",
+    "href": "https://vovanr.github.io/dtr",
+    "source": "https://github.com/VovanR/dtr",
+    "date": "2016-01-26",
+    "tags": [
+      "converter",
+      "template"
+    ]
+  },
+  {
+    "id": "bem-classname-parser",
+    "name": "BEM Classname Parser",
+    "desc": "Парсер имён классов по БЭМу",
+    "href": "https://vovanr.github.io/bem-classname-parser",
+    "source": "https://github.com/VovanR/bem-classname-parser",
+    "date": "2016-01-03",
+    "tags": [
+      "parser"
+    ],
+    "disabled": true
+  },
+  {
+    "id": "notes",
+    "name": "Notes",
+    "desc": "Заметки по фронтенду",
+    "href": "https://vovanr.github.io/notes",
+    "source": "https://github.com/VovanR/notes",
+    "date": "2015-11-28",
+    "tags": [
+      "notes"
+    ]
+  },
+  {
+    "id": "text-lines",
+    "name": "Text Lines",
+    "desc": "Сортирует строки и удаляет дубликаты",
+    "href": "https://vovanr.github.io/text-lines",
+    "source": "https://github.com/VovanR/text-lines",
+    "date": "2015-11-01",
+    "tags": [
+      "formatter",
+      "text"
+    ]
+  },
+  {
+    "id": "frontend-elements-dictionary",
+    "name": "Front-end Elements Dictionary",
+    "desc": "Словарь популярных имен Элементов с примерами",
+    "href": "https://vovanr.github.io/frontend-elements-dictionary",
+    "source": "https://github.com/VovanR/frontend-elements-dictionary",
+    "date": "2015-05-21",
+    "tags": [
+      "development"
+    ]
+  },
+  {
+    "id": "show-me-which",
+    "name": "Show Me Which",
+    "desc": "Показывает keyCode нажатой клавиши",
+    "href": "https://vovanr.github.io/show-me-which",
+    "source": "https://github.com/VovanR/show-me-which",
+    "date": "2015-03-06",
+    "tags": [
+      "development"
+    ]
+  },
+  {
+    "id": "arabic-roman-convert",
+    "name": "Arabic Roman Convert",
+    "desc": "Конвертирует арабские цифры в римские с применением utf-8 символов",
+    "href": "https://vovanr.github.io/arabic-roman-convert.js",
+    "source": "https://github.com/VovanR/arabic-roman-convert.js",
+    "date": "2014-04-21",
+    "icon": "/logo.svg",
+    "tags": [
+      "converter",
+      "number"
+    ]
+  }
+]

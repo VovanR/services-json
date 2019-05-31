@@ -1,0 +1,11 @@
+{
+  "name": "Ruler",
+  "desc": "Экранная линейка",
+  "href": "https://vovanr.github.io/ruler",
+  "source": "https://github.com/VovanR/ruler",
+  "date": "2018-07-25",
+  "icon": "/logo.svg",
+  "tags": [
+  ],
+  "disabled": true
+}

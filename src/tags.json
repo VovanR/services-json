@@ -1,0 +1,20 @@
+{
+  "calculator": "Калькулятор",
+  "converter": "Конвертер",
+  "date": "Дата",
+  "development": "Разработка",
+  "file": "Файл",
+  "formatter": "Форматирование",
+  "life": "Жизнь",
+  "notes": "Заметки",
+  "number": "Число",
+  "parser": "Парсер",
+  "productivity": "Продуктивность",
+  "relax": "Отдых",
+  "sound": "Звук",
+  "statistics": "Статистика",
+  "template": "Шаблонизация",
+  "text": "Текст",
+  "time": "Время",
+  "weather": "Погода"
+}
