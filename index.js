@@ -27,7 +27,7 @@ function sortServicesByDateDesc(services) {
 }
 
 function servicesToJSON(services) {
-  return services.map(service => service.toJSON());
+  return services.map((service) => service.toJSON());
 }
 
 function readFile(path) {
@@ -57,7 +57,7 @@ class Service {
   _processFileContent(fileContent) {
     return {
       id: this._id,
-      ...fileContent
+      ...fileContent,
     };
   }
 
@@ -71,8 +71,8 @@ class Service {
 
   read() {
     return readJSONFile(this._path)
-      .then(json => this._processFileContent(json))
-      .then(json => (this._content = json))
+      .then((json) => this._processFileContent(json))
+      .then((json) => (this._content = json))
       .then(() => this);
   }
 
@@ -84,7 +84,7 @@ class Service {
 function createService(filename) {
   return new Service({
     basedir: SERVICES_DIR,
-    filename
+    filename,
   });
 }
 
@@ -95,11 +95,11 @@ function stringify(json) {
 fs.readdir(SERVICES_DIR, (err, fileNames) => {
   const services = fileNames.map(createService);
 
-  Promise.all(services.map(service => service.read()))
+  Promise.all(services.map((service) => service.read()))
     .then(sortServicesByDateDesc)
     .then(servicesToJSON)
     .then(stringify)
-    .then(servicesContent => {
+    .then((servicesContent) => {
       fs.writeFileSync(
         path.resolve(DIST_DIR, DIST_FILENAME),
         servicesContent,
