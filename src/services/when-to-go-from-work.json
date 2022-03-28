@@ -1,6 +1,6 @@
 {
   "name": "When to go from work",
-  "desc": "Рассчитывает во сколько прийти или уйти с работы",
+  "desc": "Calculates what time to arrive or leave work",
   "href": "https://vovanr.github.io/when-to-go-from-work",
   "source": "https://github.com/VovanR/when-to-go-from-work",
   "date": "2018-02-02",

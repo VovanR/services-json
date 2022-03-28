@@ -1,6 +1,6 @@
 {
   "name": "Number Converter",
-  "desc": "Конвертирует десятичные и бинарные числа",
+  "desc": "Convert decimal, binary and hexadecimal numbers",
   "href": "https://vovanr.github.io/number-converter",
   "source": "https://github.com/VovanR/number-converter",
   "date": "2018-02-16",

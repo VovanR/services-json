@@ -1,11 +1,12 @@
 {
   "name": "Notes",
-  "desc": "Заметки по фронтенду",
+  "desc": "My development notes",
   "href": "https://vovanr.github.io/notes",
   "source": "https://github.com/VovanR/notes",
   "date": "2015-11-28",
   "icon": "/logo.svg",
   "tags": [
+    "development",
     "notes"
   ]
 }

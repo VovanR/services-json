@@ -1,6 +1,6 @@
 {
   "name": "Arabic Roman Convert",
-  "desc": "Конвертирует арабские цифры в римские с применением utf-8 символов",
+  "desc": "Convert Arabic to Roman UTF-8 numerals: 7 → Ⅶ",
   "href": "https://vovanr.github.io/arabic-roman-convert.js",
   "source": "https://github.com/VovanR/arabic-roman-convert.js",
   "date": "2014-04-21",
