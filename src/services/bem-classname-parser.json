@@ -1,6 +1,6 @@
 {
   "name": "BEM Classname Parser",
-  "desc": "Парсер имён классов по БЭМу",
+  "desc": "Parse Block Element Modifier from block__elem_mod, block__elem--mod etc.",
   "href": "https://vovanr.github.io/bem-classname-parser",
   "source": "https://github.com/VovanR/bem-classname-parser",
   "date": "2016-01-03",
