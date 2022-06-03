@@ -92,7 +92,7 @@ function stringify(json) {
   return JSON.stringify(json, null, 2);
 }
 
-fs.readdir(SERVICES_DIR, (err, fileNames) => {
+fs.readdir(SERVICES_DIR, (_err, fileNames) => {
   const services = fileNames.map(createService);
 
   Promise.all(services.map((service) => service.read()))

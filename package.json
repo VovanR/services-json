@@ -15,7 +15,7 @@
   "main": "index.json",
   "keywords": [],
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.6.2"
   },
   "peerDependencies": {},
   "bugs": {
