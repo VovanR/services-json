@@ -1,0 +1,11 @@
+{
+  "name": "What is User Agent",
+  "desc": "Parse browser User Agent",
+  "href": "https://vovanr.github.io/what-is-user-agent",
+  "source": "https://github.com/VovanR/what-is-user-agent",
+  "date": "2023-11-02",
+  "tags": [
+    "development",
+    "parser"
+  ]
+}
