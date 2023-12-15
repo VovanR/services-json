@@ -23,7 +23,7 @@ fetchServicesJSON()
   {
     "id": "string-cases",
     "name": "String Cases",
-    "desc": "Конвертирует название переменной в различные регистры",
+    "desc": "Convert variable name to various cases",
     "href": "https://vovanr.github.io/string-cases",
     "source": "https://github.com/VovanR/string-cases",
     "date": "2019-04-01",
@@ -37,7 +37,7 @@ fetchServicesJSON()
   {
     "id": "ruler",
     "name": "Ruler",
-    "desc": "Экранная линейка",
+    "desc": "Portable screen ruler",
     "href": "https://vovanr.github.io/ruler",
     "source": "https://github.com/VovanR/ruler",
     "date": "2018-07-25",
