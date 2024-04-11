@@ -1,0 +1,10 @@
+{
+  "name": "Tyre Pressure Converter",
+  "desc": "Convert value between bar, psi and kPa",
+  "href": "https://vovanr.github.io/tyre-pressure-converter",
+  "source": "https://github.com/VovanR/tyre-pressure-converter",
+  "date": "2024-04-11",
+  "tags": [
+    "converter"
+  ]
+}
