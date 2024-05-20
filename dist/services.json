@@ -1,5 +1,16 @@
 [
   {
+    "id": "microphone-test",
+    "name": "Microphone Test",
+    "desc": "Check the microphone level",
+    "href": "https://vovanr.github.io/microphone-test",
+    "source": "https://github.com/VovanR/microphone-test",
+    "date": "2024-05-15",
+    "tags": [
+      "sound"
+    ]
+  },
+  {
     "id": "tyre-pressure-converter",
     "name": "Tyre Pressure Converter",
     "desc": "Convert value between bar, psi and kPa",
