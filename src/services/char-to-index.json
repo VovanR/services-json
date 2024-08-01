@@ -1,0 +1,12 @@
+{
+  "name": "Char to Index",
+  "desc": "Convert chars to alphabet index",
+  "href": "https://vovanr.github.io/char-to-index",
+  "source": "https://github.com/VovanR/char-to-index",
+  "date": "2024-07-31",
+  "tags": [
+    "converter",
+    "number",
+    "text"
+  ]
+}
